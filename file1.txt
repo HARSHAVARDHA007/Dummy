@@ -3,3 +3,4 @@
 =======
 "I think this should cause a problem while merging now"
 >>>>>>> harsha
+Understood what is a stash
